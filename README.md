@@ -1,4 +1,4 @@
-# 🌍 Aapka Sathi
+# 🌍 Aapka Sarthi
 
 **Empowering India’s Street Vendors**
 
