@@ -2,7 +2,7 @@
 
 **Empowering India’s Street Vendors**
 
-Aapka Sathi is a digital platform committed to uplifting street vendors and micro-entrepreneurs by providing **legal identity, financial access, skill training, digital tools, and streamlined access to government schemes**.  
+Aapka Sarthi is a digital platform committed to uplifting street vendors and micro-entrepreneurs by providing **legal identity, financial access, skill training, digital tools, and streamlined access to government schemes**.  
 
 🌐 Website: [https://aapkasathi.in](https://aapkasathi.in)  
 💻 GitHub: [https://github.com/aapkasathi/aapkasathi_Website](https://github.com/aapkasathi/aapkasathi_Website)
